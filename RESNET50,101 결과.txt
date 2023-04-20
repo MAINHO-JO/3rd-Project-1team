@@ -1,0 +1,17 @@
+RESNET50
+Epoch : 23/100....... Train Loss : 0.761 Valid Loss : 1.010 Valid Accuracy : 0.678
+
+RESNET101
+Epoch : 40/100....... Train Loss : 0.724 Valid Loss : 1.020 Valid Accuracy : 0.684
+
+
+RESNET50 batch_size 16 clahe 
+Epoch : 27/100....... Train Loss : 0.737 Valid Loss : 0.912 Weighted F1 Score : 0.688
+
+RESNET101 batch_size 16 clahe 
+Epoch : 36/100....... Train Loss : 0.796 Valid Loss : 0.931 Weighted F1 Score : 0.662
+
+
+
+
+
